@@ -1,0 +1,110 @@
+.site__header {
+  background-color: #fff;
+  padding-bottom: 17px;
+
+}
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+.logo__span {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+.logos {
+  padding: 20px;
+  background-color: rgb(39, 225, 39);
+  border-radius: 100%;
+  color: #fff;
+  font-size: 25px;
+}
+.logo__text {
+  margin-left: 10px;
+  width: 159px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 17px;
+  /* or 113% */
+
+  color: #000000;
+}
+.site__nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.list__nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.ru {
+  margin-right: 10px;
+  padding-right: 15px;
+  border-style: none;
+  background-color: #fff;
+  font-size: 15px;
+  color: rgb(94, 94, 94);
+  border-right: 2px solid rgb(94, 94, 94);
+}
+.uz {
+  border-style: none;
+  margin-right: 100px;
+  background-color: #fff;
+  font-size: 15px;
+  color: rgb(94, 94, 94);
+  &:checked.line {
+    background-image: url('./../../Assets//Images/line.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+      } 
+  }
+  
+
+.link {
+  margin-right: 50px;
+  text-decoration: none;
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+
+  color: #000000;
+}
+.chiqish {
+  padding-right: 5px;
+  border-right: 2px solid rgb(70, 70, 251);
+  margin-right: 5px;
+}
+.btn {
+  text-decoration: none;
+  color: rgb(70, 70, 251);
+}
+
+.ava__header {
+  display: flex;
+  align-items: center;
+  border-style: none;
+  background-color: #fff;
+  text-decoration: none;
+  
+}
+.sali {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 21px;
+  margin-right: 20px;
+  text-decoration: none;
+  /* identical to box height */
+  
+  text-align: center;
+  
+  color: #787993;
+  margin-right: 15px;
+
+}

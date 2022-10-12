@@ -1,0 +1,132 @@
+.section__main {
+  margin-bottom: 7px;
+
+}
+.text__main {
+  display: flex;
+  border-bottom: 1px solid #d5d5d5;
+}
+.main__bottom {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 46px;
+  border-top: 1px solid rgba(182, 202, 251, 0.606)
+}
+.main__bottom-text {
+  font-size: 15px;
+line-height: 18px;
+margin-right: 8px;
+color: #4E72CA;
+margin-left: 45%;
+border-style: none;
+background-color: #fff;
+display: flex;
+align-items: center;
+}
+.text__main {
+  margin-bottom: 16px;
+}
+.svg__pokaz {
+  margin-left: 9px;
+}
+.liks {
+  text-decoration: none;
+}
+.text__novi {
+    margin: 0;
+    padding: 0;
+
+    border-style: none;
+    background-color: #fff;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  color: #4E72CA;
+border-bottom: 2px solid #4E72CA;
+border-width: 3px;
+padding-bottom: 10px;
+}
+.text__layt {
+    border-style: none;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  color: #9b9b9b;
+  margin-left: 77px;
+  
+  padding-bottom: 10px;
+  &:hover {
+    color: #4E72CA;
+    border-bottom: 1px solid #4E72CA;
+    padding-bottom: 10px;
+  }
+}
+
+
+.item__container {
+  padding-top: -46px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+
+}
+.item__main {
+  text-decoration: none;
+width: 254px;
+margin-right: 30px;
+margin-bottom: 33px;
+}
+.item__img {
+  width: 254px;
+  height: 203px;
+}
+.item__content {
+padding-left: 15px;
+padding-right: 10px;
+padding-top: 5px;
+}
+.item__title {
+width: 234px;
+margin: 0;
+padding: 0;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #000000;
+}
+.item__data {
+  width: 69px;
+margin: 0;
+padding: 0;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+margin-bottom: 5px;
+margin-top: 7px;
+color: #4A4A4A;
+}
+.item__price {
+  width: 117px;
+margin: 0;
+padding: 0;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+}

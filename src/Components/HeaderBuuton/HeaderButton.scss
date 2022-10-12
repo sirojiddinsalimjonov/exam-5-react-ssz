@@ -1,0 +1,134 @@
+.header__buton {
+    padding-top: 16px;
+padding-bottom: 18px;
+}
+
+
+.button__content {
+  display: flex;
+  justify-content: space-between;
+}
+.svg__input {
+    margin-right: 18px;
+}
+.input_waraper {
+  display: flex;
+  border: 1px solid rgba(151, 151, 151, 0.496575);
+  border-radius: 22.5px;    
+}
+.text1__content {
+  border-right: 1px solid #000;
+ 
+  align-items: center;
+  display: flex;
+}
+.text1__content1 {
+    border-left: 1px solid #000;
+    
+    align-items: center;
+    display: flex;
+}
+.wrap__text1 {
+    padding: 0;
+    margin: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  padding-left: 24px;
+  margin-right: 60px;
+  color: #000000;
+  
+}
+.wrap__text2 {
+    padding: 0;
+    margin: 0;
+    padding-left: 30px;
+    margin-right: 44px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+
+  color: #000000;
+  
+}
+.text2 {
+  margin: 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+padding-right: 199px;
+padding-left: 25px;
+  align-items: center;
+  display: flex;
+  color: #000000;
+  
+}
+.text1__content {
+  padding: 0;
+  margin: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+
+  color: #000000;
+  
+}
+.nayti__button {
+  width: 78px;
+  border-style: none;
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  background-color: #19d476;
+  color: #ffffff;
+  padding: 0;
+  margin: 0;
+  border-radius: 22.5px;
+  padding-top: 14px;
+  padding-bottom: 13px;
+}
+.button__dabv {
+    width: 240px;
+    padding: 0;
+    margin: 0;
+  display: flex;
+  border-style: none;
+  align-items: center;
+  background: #19D476;
+
+  border-radius: 22px;
+}
+
+.plus__text {
+    padding: 0;
+    margin: 0;
+    width: 174px;
+    background: #19D476;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 19px;  
+    color: #FFFFFF;
+    margin-left: 12px;
+}
+.button__plus {
+    padding: 0;
+    margin: 0;
+    font-size: 28px;
+    line-height: 33px;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 6px;
+padding-bottom: 6px;
+background: #11B463;
+color: #FFFFFF;
+border-radius: 22px;
+
+}

@@ -1,0 +1,200 @@
+.login__content {
+  display: flex;
+  justify-content: space-between;
+}
+.login__section {
+  padding-bottom: 101px;
+}
+.bech {
+  background-image: url(./../../../Assets/Images/login.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 64px;
+}
+.back__content {
+  margin-top: 362px;
+  margin-left: 61px;
+  margin-right: 300px;
+  margin-bottom: 185px;
+}
+.form__content {
+  text-align: center;
+  margin: 0 auto;
+  width: 451px;
+}
+.input__form {
+  padding-top: 20px;
+  padding-bottom: 19px;
+  padding-left: 14px;
+  width: 329px;
+  background: #ffffff;
+  border: 1px solid rgba(151, 151, 151, 0.482592);
+  border-radius: 5px;
+  &::placeholder {
+    font-family: "Gilroy";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 23px;
+
+    color: #c7c7c7;
+  }
+}
+.form__content {
+}
+.form {
+  width: 329px;
+  margin: 0 auto;
+  margin-top: 25px;
+}
+.input__tel {
+  text-align: left;
+}
+.input__pas {
+  text-align: left;
+}
+.input__tel {
+  margin: 0;
+  margin-bottom: 7px;
+  padding: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 21px;
+  color: #787993;
+}
+.input__pas {
+  margin: 0;
+  margin-bottom: 7px;
+  padding: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 21px;
+  color: #787993;
+}
+.submit {
+  margin-top: 31px;
+  width: 350px;
+  border-style: none;
+  font-style: normal;
+  padding-top: 21px;
+  padding-bottom: 20px;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 21px;
+  text-align: center;
+  color: #ffffff;
+  background: #41d481;
+  border-radius: 5px;
+}
+
+.formtop__text {
+  width: 435px;
+  margin-top: 81px;
+  margin-left: 15px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #000000;
+}
+.form__textp {
+  margin: 0;
+  padding: 0;
+  margin-left: 45px;
+  width: 330px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 23px;
+
+  color: #304fff;
+}
+
+.text__baack {
+  padding: 79px 40px 40px 41px;
+  box-sizing: border-box;
+  background-color: #fff;
+  border-radius: 220px 220px 220px 25px;
+}
+
+.kivi {
+  color: #41d481;
+  padding: 0;
+  margin: 0;
+  font-size: 30px;
+}
+.kivi__text {
+  padding: 0;
+  margin: 0;
+  margin-top: 3px;
+  width: 213px;
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 21px;
+  color: #787993;
+}
+.kivi__buton {
+  border-style: none;
+  width: 161px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #41d481;
+  background-color: #fff;
+  border: 1px solid #41d481;
+  padding-top: 8px;
+  padding-bottom: 10px;
+  margin-top: 18px;
+}
+
+.border__logindiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 42px;
+}
+.left__border {
+    margin-bottom: 15px;
+    margin-left: 10px;
+      color: #787993;
+
+}
+.rayt__border {
+    margin-bottom: 15px;
+    margin-left: 15px;
+      color: #787993;
+
+}
+.ili__border {
+  padding: 0;
+  margin: 0;
+  margin-left: 15px;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #787993;
+  
+}
+.parolss {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    
+    color: #4E72CA;
+    border-style: none;
+    background-color: #fff;
+    margin-top: 18px;
+}
